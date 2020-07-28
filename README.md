@@ -1,3 +1,4 @@
 # WebVisualizations
-Web Design Visualizations
+
+Web-Design Challenge
 
