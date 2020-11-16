@@ -4,6 +4,9 @@
 
 This dashboard has the following elements:
 *  A landing page with an explanation of the project and links to each page of data visualizations
+
+   ![LP Image](https://github.com/bking3372/Web-Visualization-Dashboard/blob/master/images/LandingPg.PNG)
+
 *  Four data visualization pages for each of the four weather comparisons (temperature, humidity, wind speed, and cloudiness)
 *  A comparison page showing all four visualizations for easy comparison
 *  A data page containing the data used to create the visualizations
